@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ventindi.github.io/sitemap.html.gz
+Sitemap: https://ventindi.github.io/app/sitemap.html.gz
+Sitemap: https://ventindi.github.io/assets/sitemap.html.gz
+Sitemap: https://ventindi.github.io/css/sitemap.html.gz
+Sitemap: https://ventindi.github.io/includes/sitemap.html.gz
+Sitemap: https://ventindi.github.io/item/sitemap.html.gz
+Sitemap: https://ventindi.github.io/src/sitemap.html.gz
